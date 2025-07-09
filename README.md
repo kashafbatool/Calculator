@@ -20,7 +20,8 @@ Figma (for UI Design)
 Custom Themed Components and Styles
 
 🖼️ Screenshots
-![Calculator Screenshot](calculator/screenshot.png)
+<img width="481" alt="Screenshot 2025-07-09 at 3 45 10 PM" src="https://github.com/user-attachments/assets/e46d81d3-580f-4164-a217-749fee1fbeb9" />
+
 
 
 QR code: 
