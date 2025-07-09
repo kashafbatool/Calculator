@@ -20,7 +20,7 @@ Figma (for UI Design)
 Custom Themed Components and Styles
 
 🖼️ Screenshots
-![Calculator Screenshot](assets/images/screenshot.png)
+![Calculator Screenshot](calculator/screenshot.png)
 
 
 QR code: 
